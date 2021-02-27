@@ -1,2 +1,2 @@
-# curriculum
-Meu curriculo pessoal
+# Curriculum
+My personal CV
